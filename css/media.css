@@ -1,0 +1,155 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.menu ul li a{
+	font-size: 20px;
+    padding: 0 !important;
+    text-align: right;
+
+}
+/*banner start*/
+.banner_content {
+    margin-top: 22px;
+    text-align: center;
+}
+.banner_content h1 {
+    font-size: 27px;
+    font-weight: 700;
+}
+.banner_content h2 {
+    font-size: 24px;
+  
+}
+.ci li {
+    width: 12px;
+    height: 12px;
+    
+}
+.ci{
+    margin-bottom:8px;
+}
+.list_i{
+    margin-bottom: 23px;
+}
+.banner_content p {
+    margin-bottom: 20px;
+}
+/*banner end*/
+/*feature start*/
+.feature{
+    padding-top: 0px;
+    padding-bottom: 100px;
+}
+.f_icon {
+    font-size: 45px;
+    
+}
+.single_item{
+    text-align: center;
+     margin-top: 25px;
+}
+.feature_t{
+    padding-left: 15px;
+}
+/*contact start*/
+.contact h1{
+    font-size: 28px;
+}
+.contact input{
+    padding: 0 15px;
+}
+.contact button{
+    padding:5px 10px;
+}
+.c_icon ul li{
+    font-size: 35px
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+ .menu ul li a{
+    padding: 0 !important;
+    text-align: right;
+}
+/*banner start*/
+.banner_content {
+    margin-top: 37px;
+}
+.banner_content h1 {
+    font-size: 30px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 58px;
+}
+/*banner end*/
+/*feature start*/
+.feature{
+    padding-top: 0px;
+    padding-bottom: 100px;
+}
+.f_icon {
+   font-size: 45px;
+}
+/*contack start*/
+.c-form input{
+    padding: 20px 15px;
+    
+}
+.c-form button{
+    padding: 8px 26px;
+   
+}
+.a_center{
+    text-align:center;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a{
+    padding: 0 !important;
+    text-align: right;
+}
+/*banner start*/
+.banner_content h1 {
+    font-size: 27px;
+    font-weight: 700;
+}
+.banner_content{
+	margin-top: 25px;
+}
+.banner_image{
+    margin-top: 10px;
+}
+.ci {
+    margin-bottom:0px;
+}
+.list_i {
+    margin-top: -16px;
+}
+/*banner end*/
+/*feature start*/
+.feature{
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.single_item{
+    margin-top: 30px;
+}
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  
+
+
+}

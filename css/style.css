@@ -1,0 +1,163 @@
+@font-face {
+  font-family:HelveticaNeue_Bold;
+  src: url(../fonts/HelveticaNeue_Bold.ttf);
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+}
+/* header start*/
+header{
+	background-color: #fcdb00;
+	padding: 10px 0;
+}
+.menu ul li a{
+	font-weight: 700;
+	font-size: 22px;
+	padding: 0 45px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+/* header end*/
+/* banner start*/
+.banner{
+	background-color: #fcdb00;
+	padding-bottom: 20px;
+}
+.banner_content{
+	margin-top: 50px;
+}
+.banner_content h1{
+	font-size: 32px;
+	font-weight: 700;
+
+
+}
+.banner_content h2{
+	font-size: 20px;
+	font-weight: 400;
+	margin: 20px 0;
+	
+}
+.banner_content p{
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+.icon li a i{
+	font-size: 35px;
+	color: #000;
+	margin-right: 20px: 
+}
+.offset-md-2 {
+    margin-top:20px;
+    padding-bottom: 50px;
+
+}
+element {
+}
+.ci li {
+	 width: 15px;
+    height: 15px;
+    background-color: lightblue;
+    border-radius: 50%;
+}
+.ci .active{
+	opacity: 1;
+	background-color: blue;
+}
+.ci{
+	bottom: -20px;
+}
+.list-inline li{
+	font-size: 40px;
+	margin-right: 10px;
+}
+.banner_image{
+	margin-left: 45px;
+	margin-top: 30px;
+	
+}
+/*banner end*/
+/*feature start*/
+.feature{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.tittle h1{
+	font-weight: 700;
+	font-size: 32px;
+	color: 010101;
+	margin-top: 100px;
+}
+.feature_t{
+	margin-top: 10px;
+	padding-left: 0;
+}
+.tittle p{
+	font-size: 18px;
+	color:#313841;
+	margin-top: 20px;
+	margin-bottom: 26px;
+}
+.f_icon{
+	font-size: 50px;	
+}
+.f_content h2{
+	font-size: 22px;
+	font-weight: 400;
+} 
+.f_content p{
+	font-size: 16px;
+	color: #898989;
+}
+.single_item{
+	margin-top: 60px;
+}
+/*feature end*/
+/*contack start*/
+.contact{
+	background-color: #010101;
+	padding-bottom: 75px;
+}
+.contact h1{
+	color: #fcdb00;
+}
+.contact p{
+	color: #898989;
+}
+.c-form{
+	margin-top: 30px
+}
+.c-form input{
+	padding: 25px 15px;
+}	
+.c-form button{
+	padding: 13px 45px;
+	font-size:16px;
+	font-weight: 700;
+	color: #010101;
+	background-color:#fcdb00;
+}
+.c_icon ul li a{
+	color:#fcdb00;
+	
+}
+.c_icon ul li{
+	margin:20px;
+}
+/*contack end*/
+/*footer start*/
+footer{
+	background-color:black;
+	padding-bottom: 80px;
+	color: white;
+}
+.pad_a{
+	margin-bottom: 20px;
+}
+.pad_a_1{
+	margin-bottom: 20px;
+}
+
+/*footer start*/
